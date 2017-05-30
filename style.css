@@ -142,5 +142,9 @@ html { font-size: 62.5%; }
 .foo { font-size: 26px; line-height: 1.23077; }
 
 /*# sourceMappingURL=style.css.map */
+<<<<<<< HEAD
 .class{color:orange; height:120px; width: 200px; line-height: 10px; background: orange;}
+=======
+.class{color:orange; height:120px; width: 200px; background: orange; border:1px solid #fff;}
+>>>>>>> 97081ce9232d3f931b0400654de7d02d349fb641
 
